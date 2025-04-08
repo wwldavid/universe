@@ -17,11 +17,14 @@ function Welcome() {
 
       <div className="flex flex-col items-center gap-10 mb-10">
         <div className="flex flex-col gap-3">
-          <button
-            className="w-80 h-10 rounded-lg border border-[#5A3E9C]  text-[#5A3E9C] text-lg hover:bg-[#5A3E9C]"
-            href="https://www.figma.com/proto/4wYsRjUyMtqiQefOZjacCq/Mockups---Design-Studio-1?page-id=988%3A1781&node-id=1482-813&viewport=558%2C-870%2C0.21&t=GsHxB01ojY8G79af-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1070%3A3756&show-proto-sidebar=1"
-          >
-            Link to our design
+          <button className="w-80 h-10 rounded-lg border border-[#5A3E9C]  text-[#5A3E9C] text-lg hover:bg-[#5A3E9C]">
+            <a
+              href="https://www.figma.com/proto/4wYsRjUyMtqiQefOZjacCq/Mockups---Design-Studio-1?page-id=988%3A1781&node-id=1482-813&viewport=558%2C-870%2C0.21&t=GsHxB01ojY8G79af-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1070%3A3756&show-proto-sidebar=1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Link to our design
+            </a>
           </button>
           <button className="w-80 h-10 rounded-lg border border-[#5A3E9C] text-[#5A3E9C] text-lg hover:bg-[#5A3E9C]">
             Sign Up
