@@ -17,7 +17,7 @@ function Welcome() {
         </motion.div>
 
         <motion.div
-          className="mt-8 text-4xl font-semibold text-center skew-x-[-10deg]"
+          className="mt-8 text-4xl font-semibold text-center italic"
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, delay: 0.8 }}
