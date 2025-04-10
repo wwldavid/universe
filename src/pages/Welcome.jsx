@@ -36,7 +36,7 @@ function Welcome() {
       >
         <div className="flex flex-col gap-4 w-full max-w-xs">
           <a
-            href="https://www.figma.com/proto/4wYsRjUyMtqiQefOZjacCq/Mockups---Design-Studio-1?page-id=988%3A1781&node-id=1482-813&viewport=558%2C-870%2C0.21&t=GsHxB01ojY8G79af-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1070%3A3756&show-proto-sidebar=1"
+            href="https://www.figma.com/proto/4wYsRjUyMtqiQefOZjacCq/Mockups---Design-Studio-1?page-id=1966%3A5113&node-id=1995-6586&viewport=-819%2C165%2C0.47&t=veIKCkhw4uaSmCls-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1995%3A6584"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full py-3 rounded-xl border border-purple-300 text-purple-100 font-medium tracking-wide bg-purple-700 hover:border-[#cee4ae] hover:shadow-lg text-center"
