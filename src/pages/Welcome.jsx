@@ -16,7 +16,7 @@ function Welcome() {
           <img src={logo} alt="Logo" className="w-56 h-auto drop-shadow-lg" />
         </motion.div>
 
-        <motion.div
+        {/* <motion.div
           className="mt-8 text-4xl font-semibold text-center italic"
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
@@ -24,7 +24,7 @@ function Welcome() {
         >
           <p className="text-[#c3d825]">Make the</p>
           <p className="text-[#c3d825]">first move</p>
-        </motion.div>
+        </motion.div> */}
       </div>
 
       {/* Buttons and info section */}
@@ -45,7 +45,7 @@ function Welcome() {
           </a>
 
           <Link
-            to="/home"
+            // to="/home"
             className="w-full py-3 rounded-xl border border-purple-00 text-purple-100 font-medium tracking-wide transition-all hover:bg-purple-700 hover:border-[#cee4ae] hover:shadow-lg text-center"
           >
             Explore Events as a Guest
